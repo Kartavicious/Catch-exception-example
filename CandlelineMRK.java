@@ -1,5 +1,4 @@
 /*Chapter 12
-Date: 12/1/2018
 Programmer: Michael Kartavich
 Filename: CandlelineMRK.java
 Purpose: Using exception handling in a shipping program.
